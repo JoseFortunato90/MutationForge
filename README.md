@@ -1,6 +1,8 @@
-# 🧠 ExamForge — Guia 
+# 🧠 MutationForge — Guia 
 
-Este documento apresenta o passo a passo para configurar e rodar o backend e o frontend do projeto **ExamForge**.
+Esse projeto é uma extensão do Sistema ExamForge (https://github.com/Gabriel-marques-araujo/ExamForge).
+
+O objetivo é utilizar um sistema RAG consistente para validar benchmarks de testes aplicados a sistemas RAG e LLMs. Além disso, a proposta visa introduzir mutações propositais no sistema, permitindo avaliar a eficácia dos benchmarks na identificação de falhas e na mensuração da robustez e confiabilidade desses sistemas.
 
 ### 📥 1. Clonar o Repositório
 
